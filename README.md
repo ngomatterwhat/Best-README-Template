@@ -70,7 +70,7 @@
 <!-- ABOUT THE PROJECT -->
 ## CRYPTO Risk Resampling
 
-[![Product Name Screen Shot][product-screenshot]](images/Screen Shot 2021-09-18 at 5.30.31 PM.png)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/ngomatterwhat/Module-12/blob/31c191a331963aa558ccb8fa507bdd23faea0e86/images/Screen%20Shot%202021-09-18%20at%205.30.31%20PM.png)
 
 In this Fintech Challenge question, our class was to apply the language of Python and our newly found knowledge of supervised learning to analyze data for a which borrower has high risk for credit vs low risk for credit. 
 ### Built With
